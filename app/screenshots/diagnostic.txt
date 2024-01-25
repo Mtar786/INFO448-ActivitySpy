@@ -1,0 +1,7 @@
+2024-01-25 12:32:43.521  5370-5370  MainActivity            edu.uw.ischool.mrahma3.activityspy   I  onCreate event fired. savedInstanceState: null
+2024-01-25 12:32:43.627  5370-5370  MainActivity            edu.uw.ischool.mrahma3.activityspy   I  onStart event fired
+2024-01-25 12:32:43.628  5370-5370  MainActivity            edu.uw.ischool.mrahma3.activityspy   I  onResume event fired
+2024-01-25 12:43:20.583  5717-5717  MainActivity            edu.uw.ischool.mrahma3.activityspy   I  onPause event fired
+2024-01-25 12:43:20.641  5717-5717  MainActivity            edu.uw.ischool.mrahma3.activityspy   I  onStop event fired
+2024-01-25 12:43:23.933  5717-5717  MainActivity            edu.uw.ischool.mrahma3.activityspy   I  onDestroy event fired
+2024-01-25 12:43:23.933  5717-5717  MainActivity            edu.uw.ischool.mrahma3.activityspy   E  We're going down, Captain!
